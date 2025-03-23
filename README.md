@@ -138,4 +138,3 @@ For any questions or feedback, please contact me at [regregd@outlook.com](mailto
 ---
 
 Happy encrypting and decrypting!
-```
